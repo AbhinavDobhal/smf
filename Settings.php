@@ -29,7 +29,7 @@ $db_type = 'mysql';
 $db_server = '127.0.0.1';
 $db_name = 'smfDB';
 $db_user = 'root';
-$db_passwd = 'aarav#21';		#21';		#21';		#21';		#2105';
+$db_passwd = 'AArav#2105';		#21';		#21';		#21';		#2105';
 $ssi_db_user = '';
 $ssi_db_passwd = '';
 $db_prefix = '';
@@ -38,9 +38,9 @@ $db_error_send = 1;
 
 ########## Directories/Files ##########
 # Note: These directories do not have to be changed unless you move things.
-$boarddir = '/Users/Abhi/Projects/MyProjects/smf';		# The absolute path to the forum's folder. (not just '.'!)
-$sourcedir = '/Users/Abhi/Projects/MyProjects/smf/Sources';		# Path to the Sources directory.
-$cachedir = '/Users/Abhi/Projects/MyProjects/smf/cache';		# Path to the cache directory.
+$boarddir = '/var/www/edgenuity.ga';		# The absolute path to the forum's folder. (not just '.'!)
+$sourcedir = '/var/www/edgenuity.ga/Sources';		# Path to the Sources directory.
+$cachedir = '/var/www/edgenuity.ga/cache';		# Path to the cache directory.
 
 ########## Error-Catching ##########
 # Note: You shouldn't touch these settings.
